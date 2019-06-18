@@ -1,7 +1,7 @@
 # Simple echo server
 This is a simple echo server with auth header on constant
 
-####Run
+#### Run
 - first ```git clone github.com/xsikor/echo-server```
 - next do ```GO111MODULE=on go run main.go```
 
